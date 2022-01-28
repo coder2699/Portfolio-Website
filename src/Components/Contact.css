@@ -1,0 +1,41 @@
+.imgBg{
+        width: 100%;
+        min-height: 100vh;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        background-color: #3a3b70;
+    }
+      
+
+    .cardContact {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        background-color:transparent!important;
+    }
+
+    .cardOs {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        background-color:#141321!important;
+    }
+
+.outerBorder{
+    border: #fff;
+    border-width: thick;
+    border-radius: inherit;
+    border-style: groove;
+    border-radius: 10px;
+}
+
+.cardHover:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+a{
+    text-decoration: none;
+}

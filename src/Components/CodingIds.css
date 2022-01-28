@@ -1,0 +1,8 @@
+.card-title-code{
+    color: #34356b !important;
+}
+
+.card-title-code:hover{
+    color: #4267B2 !important;
+    cursor: pointer;
+}

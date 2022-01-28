@@ -1,0 +1,21 @@
+.pp{
+    font-family: 'Mr De Haviland', cursive;
+    font-size: xx-large;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F5F5FD;
+}
+
+.menu:hover {
+    color: #D24B5D;
+  }
+
+  .pp:hover {
+    color: #D24B5D;
+  }
+
+.menu{
+    color: #F5F5FD;
+    font-family: 'Poppins', 'sans-serif';
+    font-size: large;
+}

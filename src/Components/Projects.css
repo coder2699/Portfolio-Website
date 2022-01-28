@@ -1,0 +1,12 @@
+.card-title-project{
+    color: #34356b !important;
+}
+
+.card-title-project:hover{
+    color: #4267B2 !important;
+    cursor: pointer;
+}
+
+.card-text-project{
+    color: #3a3b70 !important;
+}
